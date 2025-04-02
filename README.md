@@ -26,7 +26,7 @@ Alex es un asistente financiero inteligente diseñado para ayudar a los usuarios
    ```
 4. Ejecuta la aplicación:  
    ```bash
-   python app.py
+   streamlit run chat.py
    ```  
 
 ## 🔧 Tecnologías utilizadas  
